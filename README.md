@@ -1,0 +1,2 @@
+# Early-prediction-of-atrial-fibrillation-and-congestive-heart-failure
+Graduation Project predicting two chronic heart diseases by means of a device that determines the cardiac signals, and based on it, the area in which a change occurs is determined, compared to the signals of a normal person, and these results are shown on the application screen, which makes the measurement easy to use and navigate
